@@ -1,0 +1,14 @@
+.birdList_Wrapper{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(to bottom, #FFFFFF, #F9F9F9, #F2F2F2, #EBEBEB);
+}
+
+.bird-wrapper{
+    display: flex;
+    flex-basis: 25%;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+}
